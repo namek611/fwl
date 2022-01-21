@@ -1,0 +1,157 @@
+- name:  _CN_中国->SG_新加坡
+  server:  x.gotout.work
+  port:  30041
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  8SFY7w
+  udp:  true
+- name:  _US_美国
+  server:  167.88.61.109
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  2
+  server:  38.75.136.58
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  3
+  server:  38.75.136.45
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  4
+  server:  167.88.62.34
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  5
+  server:  167.88.61.204
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _US_美国  6
+  server:  169.197.143.157
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  7
+  server:  167.88.62.34
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  8
+  server:  38.143.66.71
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  9
+  server:  38.68.134.202
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  10
+  server:  38.68.135.19
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _GB_英国
+  server:  212.38.189.174
+  port:  6379
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  zDNVedRFPQexG9v
+  udp:  true
+- name:  _US_美国  11
+  server:  169.197.143.157
+  port:  8119
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _US_美国  12
+  server:  169.197.141.91
+  port:  9101
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  e4FCWrgpkji3QY
+  udp:  true
+- name:  _US_美国  13
+  server:  38.75.136.45
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+ - name:  _US_美国  14
+  server:  38.68.134.202
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+ - name:  _US_美国  15
+  server:  38.68.134.85
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+ - name:  _CA_加拿大
+  server:  134.195.196.199
+  port:  8000
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+ - name: 5.10| 国内中转SG广州移动新加坡0003
+  server: z0003.security-cloudfront-cdn.com
+  port: 44160
+  type: ssr
+  cipher: aes-256-cfb
+  password: wQ16gJrbBvvME3my
+  protocol: origin
+  obfs: http_simple
+  protocol-param: ''
+  obfs-param: www.microsoft.com#User-Agent:Mozilla/5.0(iPhone;CPUiPhoneOS11_4_1likeMacOSX)AppleWebKit/602.4.6(KHTML,likeGecko)Version/10.0Mobile/14D27MicroMessenger/6.5.13Accept:/Connection:keep-alive
+- name: 3.01|香港 免费节点EC2负载均衡119
+  server: gz2.52168.xyz
+  port: 2109
+  type: ssr
+  cipher: aes-256-cfb
+  password: epChJS35fV
+  protocol: auth_aes128_sha1
+  obfs: tls1.2_ticket_auth
+  protocol-param: 623:l78d6doy74s
+  obfs-param: 2f712623.baidu.com
+  udp: true
+- name: 2.53| HiHK 1121 tmemoon365free
+  server: 101.89.118.3
+  port: 44160
+  type: ssr
+  cipher: aes-256-cfb
+  password: wQ16gJrbBvvME3my
+  protocol: origin
+  obfs: http_simple
+  protocol-param: ''
+  obfs-param: www.microsoft.com#User-Agent:Mozilla/5.0(iPhone;CPUiPhoneOS11_4_1likeMacOSX)AppleWebKit/602.4.6(KHTML,likeGecko)Version/10.0Mobile/14D27MicroMessenger/6.5.13Accept:/Connection:keep-alive
