@@ -1,0 +1,2528 @@
+proxies:
+- name:  _CN_中国->SG_新加坡
+  server:  x.gotout.work
+  port:  30041
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  8SFY7w
+  udp:  true
+- name:  _US_美国
+  server:  167.88.61.109
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  2
+  server:  38.75.136.58
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  3
+  server:  38.75.136.45
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  4
+  server:  167.88.62.34
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  5
+  server:  167.88.61.204
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _US_美国  6
+  server:  169.197.143.157
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  7
+  server:  167.88.62.34
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  8
+  server:  38.143.66.71
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  9
+  server:  38.68.134.202
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  10
+  server:  38.68.135.19
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _GB_英国
+  server:  212.38.189.174
+  port:  6379
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  zDNVedRFPQexG9v
+  udp:  true
+- name:  _US_美国  11
+  server:  169.197.143.157
+  port:  8119
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _US_美国  12
+  server:  169.197.141.91
+  port:  9101
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  e4FCWrgpkji3QY
+  udp:  true
+- name:  _US_美国  13
+  server:  38.75.136.45
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  14
+  server:  38.68.134.202
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  15
+  server:  38.68.134.85
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大
+  server:  134.195.196.199
+  port:  8000
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  16
+  server:  169.197.143.157
+  port:  6697
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  TEzjfAYq2IjtuoS
+  udp:  true
+- name:  _CA_加拿大  2
+  server:  134.195.196.199
+  port:  8882
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _US_美国  17
+  server:  142.202.48.34
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _CA_加拿大  3
+  server:  134.195.196.199
+  port:  9101
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  e4FCWrgpkji3QY
+  udp:  true
+- name:  _US_美国  18
+  server:  167.88.62.34
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  19
+  server:  169.197.141.91
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  4
+  server:  198.57.27.191
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  20
+  server:  167.88.62.68
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  21
+  server:  167.88.63.74
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  5
+  server:  134.195.196.33
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  22
+  server:  38.68.134.202
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _CA_加拿大  6
+  server:  198.57.27.184
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  23
+  server:  169.197.143.157
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  US_8091+@WangCai_1
+  server:  169.197.143.157
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  24
+  server:  169.197.143.157
+  port:  6379
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  zDNVedRFPQexG9v
+  udp:  true
+- name:  _US_美国  25
+  server:  169.197.143.157
+  port:  8888
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  26
+  server:  38.143.66.55
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  27
+  server:  167.88.63.74
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _CA_加拿大  7
+  server:  134.195.196.71
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  28
+  server:  38.68.134.191
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _GB_英国  2
+  server:  172.99.190.109
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  29
+  server:  38.121.43.71
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _GB_英国  3
+  server:  212.38.189.174
+  port:  8888
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  30
+  server:  38.75.136.93
+  port:  8118
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _US_美国  31
+  server:  38.75.136.93
+  port:  7001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
+- name:  _US_美国  32
+  server:  38.68.135.19
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  33
+  server:  38.75.136.58
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  8
+  server:  134.195.196.71
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _CA_加拿大  9
+  server:  134.195.196.199
+  port:  7001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
+- name:  _US_美国  34
+  server:  142.202.48.34
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  35
+  server:  142.202.48.34
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _CA_加拿大  10
+  server:  134.195.196.71
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  36
+  server:  142.202.48.105
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _US_美国  37
+  server:  169.197.143.157
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _US_美国  38
+  server:  38.75.136.93
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  11
+  server:  198.57.27.241
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  39
+  server:  38.68.135.19
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  12
+  server:  134.195.196.199
+  port:  8881
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _US_美国  40
+  server:  38.68.134.69
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  41
+  server:  142.202.48.108
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  42
+  server:  38.121.43.91
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _CA_加拿大  13
+  server:  198.57.27.152
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  43
+  server:  38.75.136.93
+  port:  8008
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  XKFKl2rULjIp74
+  udp:  true
+- name:  _US_美国  44
+  server:  142.202.48.105
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  46
+  server:  142.202.48.52
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  14
+  server:  198.57.27.241
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  47
+  server:  142.202.48.52
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  15
+  server:  198.57.27.241
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  48
+  server:  38.91.101.11
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _JP_日本
+  server:  85.208.110.2
+  port:  8119
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _BG_保加利亚
+  server:  217.138.221.42
+  port:  8389
+  type:  ss
+  cipher:  chacha20-ietf-poly1305
+  password:  r4MP5DzDNmAqbBHzbSXw
+  udp:  true
+- name:  _US_美国  49
+  server:  38.75.136.93
+  port:  8881
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _CA_加拿大  16
+  server:  134.195.196.81
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  50
+  server:  167.88.62.68
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _US_美国  51
+  server:  142.202.48.34
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  17
+  server:  134.195.196.81
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _CA_加拿大  18
+  server:  134.195.196.199
+  port:  7002
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
+- name:  _US_美国  53
+  server:  167.88.62.34
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _GB_英国  4
+  server:  172.99.190.109
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  54
+  server:  38.75.136.93
+  port:  6679
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  TEzjfAYq2IjtuoS
+  udp:  true
+- name:  _US_美国  55
+  server:  38.68.134.69
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:   Cai_1
+  server:  134.195.196.199
+  port:  8008
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  XKFKl2rULjIp74
+  udp:  true
+- name:  _JP_日本  2
+  server:  85.208.108.134
+  port:  8009
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  XKFKl2rULjIp74
+  udp:  true
+- name:  _CA_加拿大  19
+  server:  198.57.27.172
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _CA_加拿大  20
+  server:  198.57.27.172
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _CA_加拿大  21
+  server:  198.57.27.191
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  56
+  server:  169.197.143.157
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  22
+  server:  198.57.27.191
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  57
+  server:  38.68.134.85
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  58
+  server:  38.68.134.85
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _US_美国  59
+  server:  38.75.136.45
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  60
+  server:  38.75.136.93
+  port:  5001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  61
+  server:  38.68.134.202
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _AU_澳大利亚
+  server:  172.105.180.227
+  port:  8008
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  XKFKl2rULjIp74
+  udp:  true
+- name:  _GB_英国  5
+  server:  172.99.190.109
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  62
+  server:  38.68.134.85
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  63
+  server:  38.143.66.71
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  23
+  server:  198.57.27.184
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _CA_加拿大  24
+  server:  198.57.27.184
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  64
+  server:  38.68.134.85
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  65
+  server:  38.68.134.23
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  66
+  server:  38.121.43.71
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  67
+  server:  167.88.63.71
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  68
+  server:  38.75.136.58
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  69
+  server:  38.91.100.200
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  70
+  server:  38.143.66.71
+  port:  7002
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
+- name:  _US_美国  71
+  server:  167.88.62.68
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  25
+  server:  198.57.27.191
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  72
+  server:  38.75.136.93
+  port:  8000
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  74
+  server:  169.197.143.157
+  port:  8881
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _JP_日本  3
+  server:  85.208.110.2
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  75
+  server:  169.197.143.157
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  76
+  server:  38.75.136.58
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  77
+  server:  38.68.134.191
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  78
+  server:  38.68.134.85
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  26
+  server:  134.195.196.199
+  port:  5601
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  27
+  server:  134.195.196.110
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _AU_澳大利亚  2
+  server:  172.105.180.227
+  port:  7001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
+- name:  _US_美国  79
+  server:  167.88.63.71
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _CA_加拿大  28
+  server:  134.195.196.193
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  80
+  server:  169.197.143.157
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  81
+  server:  38.121.43.71
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  82
+  server:  167.88.63.71
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  83
+  server:  142.202.48.108
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  84
+  server:  169.197.141.244
+  port:  5500
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  85
+  server:  142.202.48.108
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  86
+  server:  38.107.226.48
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _HU_匈牙利
+  server:  185.128.26.130
+  port:  8389
+  type:  ss
+  cipher:  chacha20-ietf-poly1305
+  password:  GU3kqh2ZSkzFkRBp4hxy
+  udp:  true
+- name:  _US_美国  87
+  server:  167.88.62.34
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _CA_加拿大  29
+  server:  198.57.27.191
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _US_美国  88
+  server:  169.197.143.157
+  port:  5500
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _CA_加拿大  30
+  server:  134.195.196.199
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  89
+  server:  167.88.63.74
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  90
+  server:  38.75.136.45
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _CA_加拿大  31
+  server:  134.195.196.193
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  91
+  server:  169.197.143.157
+  port:  7001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
+- name:  _CA_加拿大  32
+  server:  134.195.196.33
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _US_美国  92
+  server:  167.88.62.34
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  93
+  server:  142.202.48.108
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _AU_澳大利亚  3
+  server:  172.105.180.227
+  port:  5500
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _GB_英国  6
+  server:  212.38.189.174
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  94
+  server:  167.88.61.204
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  33
+  server:  198.57.27.172
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  95
+  server:  38.68.134.23
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _GB_英国  7
+  server:  172.99.190.205
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _JP_日本  4
+  server:  85.208.108.106
+  port:  6379
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  zDNVedRFPQexG9v
+  udp:  true
+- name:  _US_美国  96
+  server:  167.88.62.34
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  97
+  server:  169.197.143.157
+  port:  9102
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  e4FCWrgpkji3QY
+  udp:  true
+- name:  _GB_英国  8
+  server:  172.99.190.205
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  98
+  server:  142.202.48.108
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _CA_加拿大  34
+  server:  134.195.196.193
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  99
+  server:  38.121.43.71
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _US_美国  100
+  server:  38.75.136.93
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  101
+  server:  38.75.136.58
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  102
+  server:  169.197.141.91
+  port:  6379
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  zDNVedRFPQexG9v
+  udp:  true
+- name:  _US_美国  103
+  server:  142.202.48.105
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  104
+  server:  142.202.48.34
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  default_name  6
+  server:  104.16.169.85
+  port:  443
+  type:  vmess
+  uuid:  c213d58f-9e41-4d9e-ab99-efa6090dee02
+  alterId:  0
+  cipher:  auto
+  tls:  true
+  skip-cert-verify:  true
+  network:  ws
+  ws-path:  /
+  ws-headers: cdn-dc02.testred.xyz
+  udp:  true
+- name:  _US_美国  105
+  server:  38.68.134.85
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  106
+  server:  167.88.63.71
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  107
+  server:  38.143.66.71
+  port:  6697
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  TEzjfAYq2IjtuoS
+  udp:  true
+- name:  _US_美国  108
+  server:  38.68.135.19
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  109
+  server:  167.88.63.74
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _US_美国  110
+  server:  38.75.136.93
+  port:  8009
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  XKFKl2rULjIp74
+  udp:  true
+- name:  _CA_加拿大  35
+  server:  198.57.27.172
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  111
+  server:  167.88.61.109
+  port:  8000
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  112
+  server:  38.68.134.202
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  113
+  server:  38.107.226.48
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _AU_澳大利亚  4
+  server:  172.105.180.227
+  port:  8882
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _GB_英国  9
+  server:  212.38.189.174
+  port:  8008
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  XKFKl2rULjIp74
+  udp:  true
+- name:  _AU_澳大利亚  5
+  server:  172.105.180.227
+  port:  8009
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  XKFKl2rULjIp74
+  udp:  true
+- name:  _AU_澳大利亚  6
+  server:  172.105.180.227
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  36
+  server:  198.57.27.184
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  114
+  server:  142.202.48.52
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _CA_加拿大  37
+  server:  198.57.27.152
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _US_美国  115
+  server:  38.75.136.58
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  116
+  server:  167.88.61.204
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  117
+  server:  38.75.136.93
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _CA_加拿大  38
+  server:  198.57.27.152
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  118
+  server:  169.197.143.157
+  port:  8882
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _US_美国  119
+  server:  169.197.143.157
+  port:  6679
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  TEzjfAYq2IjtuoS
+  udp:  true
+- name:  _AU_澳大利亚  7
+  server:  172.105.180.227
+  port:  8888
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  120
+  server:  38.91.101.11
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  121
+  server:  169.197.143.157
+  port:  8000
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _CA_加拿大  39
+  server:  134.195.196.33
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _JP_日本  5
+  server:  85.208.108.134
+  port:  8881
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _US_美国  122
+  server:  167.88.63.71
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _AU_澳大利亚  8
+  server:  172.105.180.227
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _NO_挪威
+  server:  46.29.218.170
+  port:  8888
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  123
+  server:  38.91.101.11
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  40
+  server:  198.57.27.241
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  default_name  7
+  server:  104.19.23.215
+  port:  443
+  type:  vmess
+  uuid:  c213d58f-9e41-4d9e-ab99-efa6090dee02
+  alterId:  0
+  cipher:  auto
+  tls:  true
+  skip-cert-verify:  true
+  network:  ws
+  ws-path:  /
+  ws-headers: cdn-dc02.testred.xyz
+  udp:  true
+- name:  _US_美国  124
+  server:  167.88.61.204
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  125
+  server:  169.197.143.157
+  port:  5001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  126
+  server:  38.68.134.23
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  127
+  server:  38.75.136.93
+  port:  9102
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  e4FCWrgpkji3QY
+  udp:  true
+- name:  _US_美国  128
+  server:  142.202.48.34
+  port:  6379
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  zDNVedRFPQexG9v
+  udp:  true
+- name:  _US_美国  129
+  server:  38.68.134.69
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  130
+  server:  142.202.48.52
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _AU_澳大利亚  9
+  server:  172.105.180.227
+  port:  8881
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _US_美国  131
+  server:  38.143.66.71
+  port:  9102
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  e4FCWrgpkji3QY
+  udp:  true
+- name:  _AU_澳大利亚  10
+  server:  172.105.171.80
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _GB_英国  10
+  server:  212.38.189.174
+  port:  6697
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  TEzjfAYq2IjtuoS
+  udp:  true
+- name:  _US_美国  132
+  server:  142.202.48.52
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  133
+  server:  38.75.136.93
+  port:  8882
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _US_美国  134
+  server:  169.197.143.157
+  port:  7002
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
+- name:  _CA_加拿大  41
+  server:  198.57.27.172
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  135
+  server:  169.197.141.92
+  port:  5001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  136
+  server:  38.68.134.69
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  42
+  server:  198.57.27.184
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _CA_加拿大  43
+  server:  198.57.27.241
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  137
+  server:  38.68.134.85
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _CA_加拿大  44
+  server:  134.195.196.199
+  port:  8009
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  XKFKl2rULjIp74
+  udp:  true
+- name:  _US_美国  138
+  server:  142.202.48.108
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  139
+  server:  142.202.48.108
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _AU_澳大利亚  11
+  server:  172.105.180.227
+  port:  7002
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
+- name:  _US_美国  140
+  server:  38.68.134.191
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _FR_法国
+  server:  62.210.209.50
+  port:  8009
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  XKFKl2rULjIp74
+  udp:  true
+- name:  _IN_印度
+  server:  172.105.35.151
+  port:  9101
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  e4FCWrgpkji3QY
+  udp:  true
+- name:  _US_美国  141
+  server:  167.88.63.71
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _CA_加拿大  45
+  server:  134.195.196.33
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  142
+  server:  38.68.134.23
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  143
+  server:  23.82.136.151
+  port:  443
+  type:  vmess
+  uuid:  aba50dd4-5484-3b05-b14a-4661caf862d5
+  alterId:  4
+  cipher:  auto
+  tls:  true
+  skip-cert-verify:  true
+  network:  ws
+  ws-path:  /ws
+  ws-headers: usa-miami.lvuft.com
+  udp:  true
+- name:  _US_美国  144
+  server:  38.68.134.23
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  145
+  server:  167.88.63.74
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _CA_加拿大  46
+  server:  134.195.196.199
+  port:  6679
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  TEzjfAYq2IjtuoS
+  udp:  true
+- name:  _AU_澳大利亚  12
+  server:  172.105.180.227
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  47
+  server:  198.57.27.184
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  48
+  server:  198.57.27.172
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  146
+  server:  167.88.63.74
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _IN_印度  2
+  server:  172.105.35.151
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  147
+  server:  169.197.142.39
+  port:  8881
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _IN_印度  3
+  server:  172.105.59.32
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _HU_匈牙利  2
+  server:  185.252.223.204
+  port:  443
+  type:  vmess
+  uuid:  418048af-a293-4b99-9b0c-98ca3580dd24
+  alterId:  64
+  cipher:  auto
+  tls:  true
+  skip-cert-verify:  true
+  network:  ws
+  ws-path:  /path/243535322906
+  ws-headers: www.16675463.xyz
+  udp:  true
+- name:  _IN_印度  4
+  server:  172.105.59.32
+  port:  8008
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  XKFKl2rULjIp74
+  udp:  true
+- name:  _US_美国  148
+  server:  169.197.143.157
+  port:  5601
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  149
+  server:  38.75.136.93
+  port:  8888
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _AU_澳大利亚  13
+  server:  172.105.180.227
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  150
+  server:  38.68.134.191
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _CA_加拿大  49
+  server:  134.195.196.110
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _CA_加拿大  50
+  server:  134.195.196.199
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _CA_加拿大  51
+  server:  198.57.27.184
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  151
+  server:  38.68.134.69
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  152
+  server:  167.88.61.130
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  153
+  server:  142.202.48.108
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _CA_加拿大  52
+  server:  198.57.27.184
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  154
+  server:  38.68.134.69
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _AU_澳大利亚  14
+  server:  172.105.177.120
+  port:  8119
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _IN_印度  5
+  server:  172.105.59.32
+  port:  8119
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _US_美国  155
+  server:  167.88.63.71
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国->🇨🇿_CZ_捷克
+  server:  v9.ssrsub.com
+  port:  8443
+  type:  vmess
+  uuid:  b3f4826a-01e1-438a-8cb4-becb9e8b140c
+  alterId:  0
+  cipher:  auto
+  tls:  true
+  skip-cert-verify:  true
+  network:  ws
+  ws-path:  /ssrsub
+  ws-headers: v9.ssrsub.com
+  udp:  true
+- name:  _AU_澳大利亚  15
+  server:  172.105.180.227
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  156
+  server:  169.197.141.91
+  port:  5001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  157
+  server:  142.202.48.105
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  53
+  server:  134.195.196.33
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  158
+  server:  38.143.66.71
+  port:  7001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
+- name:  _US_美国  159
+  server:  169.197.143.157
+  port:  5600
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _AU_澳大利亚  16
+  server:  172.105.180.227
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _IN_印度  6
+  server:  172.105.59.32
+  port:  8118
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _CA_加拿大  54
+  server:  198.57.27.152
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _IN_印度  7
+  server:  172.105.59.32
+  port:  6379
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  zDNVedRFPQexG9v
+  udp:  true
+- name:  _US_美国  160
+  server:  38.68.134.202
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _AU_澳大利亚  17
+  server:  172.105.180.227
+  port:  5001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  55
+  server:  198.57.27.191
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _JP_日本  6
+  server:  85.208.108.106
+  port:  7001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
+- name:  _US_美国  161
+  server:  169.197.141.240
+  port:  7001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
+- name:  _CA_加拿大  56
+  server:  134.195.196.199
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  57
+  server:  134.195.196.199
+  port:  9102
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  e4FCWrgpkji3QY
+  udp:  true
+- name:  _CA_加拿大  58
+  server:  198.57.27.184
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  162
+  server:  167.88.63.74
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _IN_印度  8
+  server:  192.46.208.153
+  port:  8009
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  XKFKl2rULjIp74
+  udp:  true
+- name:  _NO_挪威  2
+  server:  46.29.218.170
+  port:  9101
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  e4FCWrgpkji3QY
+  udp:  true
+- name:  _US_美国  163
+  server:  167.88.63.71
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  59
+  server:  198.57.27.172
+  port:  443
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  pKEW8JPByTVTLtM
+  udp:  true
+- name:  _CA_加拿大  60
+  server:  134.195.196.33
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  164
+  server:  142.202.48.108
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  61
+  server:  134.195.196.199
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _AU_澳大利亚  18
+  server:  172.105.180.227
+  port:  8119
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _IN_印度  9
+  server:  172.105.59.32
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _AU_澳大利亚  19
+  server:  172.105.180.227
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  165
+  server:  169.197.142.39
+  port:  8008
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  XKFKl2rULjIp74
+  udp:  true
+- name:  _US_美国  166
+  server:  38.75.136.93
+  port:  6697
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  TEzjfAYq2IjtuoS
+  udp:  true
+- name:  _US_美国  167
+  server:  38.143.66.71
+  port:  8118
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _US_美国  168
+  server:  38.68.134.23
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _IN_印度  10
+  server:  172.105.59.32
+  port:  5001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  169
+  server:  167.88.63.71
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  170
+  server:  38.107.226.48
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  171
+  server:  167.88.62.68
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  172
+  server:  38.68.135.19
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  173
+  server:  38.107.226.48
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _NO_挪威  3
+  server:  46.29.218.170
+  port:  8118
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _US_美国  174
+  server:  38.107.226.48
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _CA_加拿大  62
+  server:  134.195.196.71
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  175
+  server:  38.75.136.93
+  port:  5500
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  176
+  server:  38.107.226.48
+  port:  5001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _NO_挪威  4
+  server:  46.29.218.170
+  port:  8119
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _AU_澳大利亚  20
+  server:  172.105.180.227
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  177
+  server:  38.75.136.93
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  178
+  server:  167.88.63.74
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _AU_澳大利亚  21
+  server:  172.105.180.227
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  179
+  server:  38.143.66.71
+  port:  5001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _GB_英国  11
+  server:  172.99.190.109
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _IN_印度  11
+  server:  172.105.59.32
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _GB_英国  12
+  server:  172.99.190.39
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _CA_加拿大  63
+  server:  134.195.196.199
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _CA_加拿大  64
+  server:  134.195.196.71
+  port:  5001
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  180
+  server:  169.197.142.39
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  181
+  server:  167.88.61.109
+  port:  8888
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _JP_日本  7
+  server:  85.208.110.2
+  port:  8882
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _IT_意大利
+  server:  185.213.21.6
+  port:  2376
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _AU_澳大利亚  22
+  server:  172.105.180.227
+  port:  5601
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  182
+  server:  169.197.142.39
+  port:  7002
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
+- name:  _CA_加拿大  65
+  server:  198.57.27.191
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _US_美国  183
+  server:  38.75.136.93
+  port:  9101
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  e4FCWrgpkji3QY
+  udp:  true
+- name:  _US_美国  184
+  server:  167.88.61.60
+  port:  6697
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  TEzjfAYq2IjtuoS
+  udp:  true
+- name:  _US_美国  185
+  server:  142.202.48.105
+  port:  8080
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _IN_印度  12
+  server:  172.105.59.32
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  _IN_印度  13
+  server:  172.105.59.32
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _IN_印度  14
+  server:  172.105.59.32
+  port:  5500
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _GB_英国  13
+  server:  172.99.190.109
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  186
+  server:  167.88.61.60
+  port:  6679
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  TEzjfAYq2IjtuoS
+  udp:  true
+- name:  _US_美国  187
+  server:  167.88.61.130
+  port:  3389
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  188
+  server:  38.68.134.191
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  189
+  server:  167.88.63.74
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  190
+  server:  142.202.48.52
+  port:  8091
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _US_美国  191
+  server:  169.197.142.39
+  port:  8888
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  192
+  server:  169.197.142.39
+  port:  8000
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  KixLvKzwjekG00rm
+  udp:  true
+- name:  _US_美国  193
+  server:  167.88.61.60
+  port:  5000
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _IN_印度  15
+  server:  172.105.59.32
+  port:  5000
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _IN_印度  16
+  server:  172.105.59.32
+  port:  9101
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  e4FCWrgpkji3QY
+  udp:  true
+- name:  _US_美国  194
+  server:  167.88.61.60
+  port:  8119
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _CA_加拿大  66
+  server:  134.195.196.199
+  port:  5000
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _US_美国  195
+  server:  usa-washington.lvuft.com
+  port:  443
+  type:  vmess
+  uuid:  aba50dd4-5484-3b05-b14a-4661caf862d5
+  alterId:  4
+  cipher:  auto
+  tls:  true
+  skip-cert-verify:  true
+  network:  ws
+  ws-path:  /ws
+  ws-headers: usa-washington.lvuft.com
+  udp:  true
+- name:  _US_美国  196
+  server:  38.121.43.71
+  port:  7307
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _US_美国  197
+  server:  169.197.142.39
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:   Cai_1
+  server:  169.197.143.157
+  port:  5000
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _IN_印度  17
+  server:  192.46.208.153
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _GB_英国  14
+  server:  212.38.189.174
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _CA_加拿大  67
+  server:  134.195.196.199
+  port:  8119
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _US_美国  198
+  server:  38.75.136.58
+  port:  8090
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  PCnnH6SQSnfoS27
+  udp:  true
+- name:  _IN_印度  18
+  server:  172.105.59.32
+  port:  7306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  FoOiGlkAA9yPEGP
+  udp:  true
+- name:  _CA_加拿大  68
+  server:  198.57.27.152
+  port:  2375
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  faBAoD54k87UJG7
+  udp:  true
+- name:  US_5004+@WangCai_1
+  server:  169.197.143.157
+  port:  5004
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _AU_澳大利亚  23
+  server:  172.105.180.227
+  port:  6679
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  TEzjfAYq2IjtuoS
+  udp:  true
+- name:  _US_美国  199
+  server:  169.197.142.39
+  port:  6697
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  TEzjfAYq2IjtuoS
+  udp:  true
+- name:  _US_美国  200
+  server:  167.88.61.60
+  port:  8888
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _AU_澳大利亚  24
+  server:  172.105.180.227
+  port:  9102
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  e4FCWrgpkji3QY
+  udp:  true
+- name:  _US_美国  201
+  server:  167.88.61.60
+  port:  8882
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _US_美国  202
+  server:  38.143.66.71
+  port:  8882
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  kDWvXYZoTBcGkC4
+  udp:  true
+- name:  _IN_印度  19
+  server:  192.46.208.153
+  port:  8118
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _US_美国  203
+  server:  38.143.66.71
+  port:  8119
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  cdBIDV42DCwnfIN
+  udp:  true
+- name:  _US_美国  204
+  server:  66.55.92.101
+  port:  8388
+  type:  ss
+  cipher:  chacha20-ietf-poly1305
+  password:  NK4wZejCzDfPdWXTK4FW
+  udp:  true
+- name:  _SG_新加坡
+  server:  ycgyg.com
+  port:  443
+  type:  vmess
+  uuid:  aba50dd4-5484-3b05-b14a-4661caf862d5
+  alterId:  4
+  cipher:  auto
+  tls:  true
+  skip-cert-verify:  true
+  network:  ws
+  ws-path:  /ws
+  ws-headers: ycgyg.com
+  udp:  true
+- name:  _US_美国  205
+  server:  167.88.61.60
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _US_美国  206
+  server:  167.88.61.60
+  port:  3306
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  Y6R9pAtvxxzmGC
+  udp:  true
+- name:  _CA_加拿大  69
+  server:  134.195.196.33
+  port:  5003
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  g5MeD6Ft3CWlJId
+  udp:  true
+- name:  _GB_英国  15
+  server:  212.38.189.174
+  port:  7002
+  type:  ss
+  cipher:  aes-256-gcm
+  password:  RexnBgU7EV5ADxG
+  udp:  true
