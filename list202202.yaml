@@ -1,5 +1,5 @@
 proxies:
-- name:  _CN_中国->🇸🇬_SG_新加坡
+- name:  _CN_中国->_新加坡
   server:  x.gotout.work
   port:  30041
   type:  ss
